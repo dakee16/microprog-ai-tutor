@@ -1,0 +1,14 @@
+# Python
+microprog_phase1/.venv/
+microprog_phase1/__pycache__/
+microprog_phase1/*.pyc
+microprog_phase1/problems_raw.json
+microprog_phase1/.env
+
+# Next.js
+microprog-web/node_modules/
+microprog-web/.next/
+microprog-web/.env.local
+
+# Mac
+.DS_Store
